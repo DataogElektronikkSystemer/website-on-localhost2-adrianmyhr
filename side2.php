@@ -7,7 +7,7 @@
 
        </head>
     <!---------------------------- <body> tag er den som er synlig i brovse ------------------------------------------------------>
-       <body>
+       <body> 
        <?Php include 'includes/script.php' ?>
     <!---------------------------- <nav> tag er boksen for navigasjonsbar ------------------------------------------------------>
       <nav>
